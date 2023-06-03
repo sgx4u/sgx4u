@@ -12,7 +12,7 @@
 
 <br />
 
-### 💫 About Me:
+### 💫 About Me
 
 💠 Software Engineer at SentientGeeks <br>
 🔬 Experience : 3.5+ Years <br>
@@ -24,7 +24,7 @@
 
 <br />
 
-### ⚡ Tech Stack:
+### ⚡ Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -52,7 +52,7 @@
 <!-- Social -->
 <br />
 
-### 🌐 Socials:
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sgx4u)
 
@@ -65,8 +65,10 @@
 
 <br />
 
-### 💎 GitHub Stats:
+### 💎 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sgx4u&theme=buefy&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sgx4u&theme=buefy&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgx4u&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br />
