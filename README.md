@@ -14,7 +14,7 @@
 ### 💫 About Me
 
 💠 Full Stack Software Engineer at SentientGeeks <br>
-🔬 Experience : 3.5+ Years <br>
+🔬 Experience : 4 Years <br>
 🌱 Currently Learning : DSA and C++ <br>
 ❤️ I would love to do freelance for you.
 
@@ -62,12 +62,6 @@
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sgx4u)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sgx4u)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sgx4u)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sgx4u)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sgx4u)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sgx4u)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sgx4u)
 
 <!-- Stats -->
 <br />
