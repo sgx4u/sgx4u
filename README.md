@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1 align="center">💠 Hello! I'm Subhajit Ghosh 💠</h1>
-  <h3 align="center">Full Stack Software Engineer | @SentientGeeks</h3>
+  <h3 align="center">Full Stack Software Engineer | @Educosys</h3>
 
   <p align="center">It's nice to have you here!</p>
   <a href="https://sgx4u.com/"><strong>My Portfolio</strong></a>
@@ -13,10 +13,15 @@
 
 ### 💫 About Me
 
-💠 Full Stack Software Engineer at SentientGeeks <br>
-🔬 Experience : 4 Years <br>
-🌱 Currently Learning : DSA and C++ <br>
+💠 Full Stack Software Engineer at Educosys <br>
+🔬 Experience : +5 Years <br>
 ❤️ I would love to do freelance for you.
+
+<br />
+
+### 💎 Tech Achievements
+
+-   `@sgx4u/date-time-utils` - https://www.npmjs.com/package/@sgx4u/date-time-utils
 
 <br />
 
@@ -50,8 +55,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -59,23 +62,7 @@
 <!-- Social -->
 <br />
 
-### 🌐 Socials
+### 💡 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sgx4u)
-
-<!-- Stats -->
-<br />
-
-### 🏆 GitHub Trophies
-
-[![](https://github-trophies.vercel.app/?username=sgx4u)](https://github-trophies.vercel.app/?username=sgx4u)
-
-<br />
-
-### 💎 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sgx4u&theme=buefy&hide_border=false&include_all_commits=false&count_private=false) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sgx4u&theme=buefy&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgx4u&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br />
+[![LinkedIn](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsgx4u%2F&style=for-the-badge&logo=linkedin&label=SGX4U&labelColor=%230077B5&color=%23353535)](https://linkedin.com/in/sgx4u)
+[![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsgx4u&style=for-the-badge&logo=x&label=sgx4u&labelColor=353535)](https://x.com/sgx4u)
